@@ -170,7 +170,7 @@ class _WebState extends State<Web> {
               height: 15,
             ),
             const Text(
-              "Connect with your teamate to better understand them and  make work easy.",
+              "Connect with your team-mate to better understand them and  make work easy.",
             ),
           ],
         ),
