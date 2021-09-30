@@ -1,0 +1,31 @@
+{
+  "name": "ui_challenge_1",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rjvysakh/ui_challenge1.git"
+  },
+  "author": "Vysakh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjvysakh/ui_challenge1/issues"
+  },
+  "homepage": "https://github.com/rjvysakh/ui_challenge1#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^13.2.0",
+    "@commitlint/config-conventional": "^13.2.0",
+    "standard-version": "^9.3.1"
+  },
+  "dependencies": {
+    "husky": "^7.0.2"
+  }
+}
